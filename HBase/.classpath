@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.7"/>
+	<classpathentry kind="lib" path="src/lib/commons-configuration-1.6.jar"/>
+	<classpathentry kind="lib" path="src/lib/commons-lang-2.5.jar"/>
+	<classpathentry kind="lib" path="src/lib/commons-logging-1.1.1.jar"/>
+	<classpathentry kind="lib" path="src/lib/dom4j-1.6.1.jar"/>
+	<classpathentry kind="lib" path="src/lib/hadoop-common-0.23.9.jar"/>
+	<classpathentry kind="lib" path="src/lib/hadoop-core-1.0.4.jar"/>
+	<classpathentry kind="lib" path="src/lib/hbase-0.94.4-tests.jar"/>
+	<classpathentry kind="lib" path="src/lib/hbase-0.94.4.jar"/>
+	<classpathentry kind="lib" path="src/lib/log4j-1.2.16.jar"/>
+	<classpathentry kind="lib" path="src/lib/protobuf-java-2.4.0a.jar"/>
+	<classpathentry kind="lib" path="src/lib/slf4j-api-1.4.3.jar"/>
+	<classpathentry kind="lib" path="src/lib/slf4j-log4j12-1.4.3.jar"/>
+	<classpathentry kind="lib" path="src/lib/zookeeper-3.4.5.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
